@@ -1,7 +1,7 @@
 {
   "boostrap-sha": "39007b644277b8b254d0077da2e4010d9db2d97c",
   "packages": {
-    "demo": {
+    ".": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "helm",
       "bump-minor-pre-major": false,
