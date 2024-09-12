@@ -6,6 +6,24 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
+- Added this feat which is editing the pr desc ([505bd5e](505bd5eea59d738a5e5fc6dd8a8ad042f33346e6))Editing the PR description would let you create complex changelogs AND
+release descriptions
+, Ticket:ABC-1234, Signed-off-by:Roberto Giovanardi <rob.giovanardi@gmail.com>
+- Added 2nd feat which is editing the pr desc ([7f66bbc](7f66bbc83105e44dd3d97d81fe137adde6600c7c))Editing the PR description would let you create complex changelogs AND
+release descriptions. Second commit
+, Ticket:ABC-1234, Signed-off-by:Roberto Giovanardi <rob.giovanardi@gmail.com>
+
+### Miscellaneous Tasks
+
+- Release demo 6.3.0 ([9c99ce0](9c99ce0d3072f7c9869c609896cdf610f2614d2c))
+
+
+## [demo-v6.2.0] - 2024-09-12
+
+[875aece](875aeceb801468e781b2bc0c042b0188f3f16b84)...[280bb4c](280bb4c59d0358254b70cf677ffee77bee71d5db)
+
+### Features
+
 - Added new key sampleGitCliff ([13f335a](13f335ad5d0d71848e086f33c6c0a2cbe13db359))This new key has been added to the values.yaml.
 **What you have to do**:
 * ignore the previous key
@@ -14,7 +32,7 @@ All notable changes to this project will be documented in this file.
 
 ### Miscellaneous Tasks
 
-- Release demo 6.2.0 ([9513faa](9513faaf94f88f6010ab97b782f2ddd7703e45fe))
+- Release demo 6.2.0 ([61ba525](61ba5259280529cd9ac48207f6c5994a7190fc3c))
 
 
 ## [demo-v6.1.0] - 2024-09-12
