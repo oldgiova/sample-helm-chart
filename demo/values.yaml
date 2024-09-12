@@ -21,6 +21,7 @@ noGitClifYesNotes: {}
 noGitClifYesNotesRetry: {}
 noGitClifYesNotesRetry2: {}
 scope: {}
+scope2: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
