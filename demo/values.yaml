@@ -18,6 +18,7 @@ sampleGitCliff: {}
 sampleGitCliffWithEditingPR: {}
 sampleGitCliffWithEditingPR2: {}
 noGitClifYesNotes: {}
+noGitClifYesNotesRetry: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
