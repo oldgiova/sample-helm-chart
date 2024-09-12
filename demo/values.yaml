@@ -5,6 +5,7 @@ global:
     password: null
     tag: demo-3.7.7
 
+# this is a documentation comment
 replicaCount: 1
 
 image:
@@ -38,6 +39,7 @@ securityContext: {}
   # readOnlyRootFilesystem: true
   # runAsNonRoot: true
   # runAsUser: 1000
+
 
 service:
   type: ClusterIP
