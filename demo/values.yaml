@@ -13,6 +13,7 @@ nameOverride: ""
 fullnameOverride: ""
 someExoticKey: {}
 someExoticKey2: {}
+someExoticKey3: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
