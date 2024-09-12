@@ -20,6 +20,7 @@ sampleGitCliffWithEditingPR2: {}
 noGitClifYesNotes: {}
 noGitClifYesNotesRetry: {}
 noGitClifYesNotesRetry2: {}
+scope: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
