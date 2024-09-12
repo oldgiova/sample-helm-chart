@@ -12,6 +12,7 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 someExoticKey: {}
+someExoticKey2: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
