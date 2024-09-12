@@ -4,11 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### Features
+
+- Added new key sampleGitCliff ([13f335a](13f335ad5d0d71848e086f33c6c0a2cbe13db359))This new key has been added to the values.yaml.
+**What you have to do**:
+* ignore the previous key
+* add this new key
+, Ticket:JQ-4242, Signed-off-by:Roberto Giovanardi <rob.giovanardi@gmail.com>
+
 ### Miscellaneous Tasks
 
-- Release demo 6.1.0 ([5de0e15](5de0e1515753b0b6bac9e10ec19b2a6bee0077e0))
+- Release demo 6.2.0 ([9513faa](9513faaf94f88f6010ab97b782f2ddd7703e45fe))
 
-- Added git cliff sample template ([8f46a23](8f46a2337ef7d76c90ed716531db42dcf32c5fc2))
+
+## [demo-v6.1.0] - 2024-09-12
+
+[ea396d4](ea396d4b1b6c55e7037cd6a4048240b7067e0355)...[875aece](875aeceb801468e781b2bc0c042b0188f3f16b84)
+
+### Miscellaneous Tasks
+
+- Release demo 6.1.0 ([66a2bb9](66a2bb90fad2600fa73a4be5ab7dac2c84484f92))
+
+- Added git cliff sample template ([95c4add](95c4add1867b314feeb0fe28a867e90125a0c750))
 , Signed-off-by:Roberto Giovanardi <rob.giovanardi@gmail.com>
 
 ## [ls] - 2024-09-12
