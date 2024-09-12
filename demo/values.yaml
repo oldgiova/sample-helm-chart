@@ -16,6 +16,7 @@ someExoticKey2: {}
 someExoticKey3: {}
 sampleGitCliff: {}
 sampleGitCliffWithEditingPR: {}
+sampleGitCliffWithEditingPR2: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
