@@ -18,7 +18,7 @@
     { "type": "revert", "section": "I made a mistake" },
     { "type": "docs", "section": "Documentation changes"},
     { "type": "style", "section": "Styles", "hidden": true },
-    { "type": "chore", "section": "Miscellaneous Chores", "hidden": false },
+    { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
     { "type": "refactor", "section": "Code Refactoring", "hidden": true },
     { "type": "test", "section": "Tests", "hidden": false },
     { "type": "build", "section": "Build System", "hidden": true },
