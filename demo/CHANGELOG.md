@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 
 
+## [7.1.1](https://github.com/oldgiova/sample-helm-chart/compare/demo-v7.1.0...demo-v7.1.1) (2024-09-13)
+
+
+### Miscellaneous Chores
+
+* restore changelog file ([f53e9fc](https://github.com/oldgiova/sample-helm-chart/commit/f53e9fc259b41b3fd43fe4a7d9c4e1fdc711d9f5))
+
 ## [8.0.0](https://github.com/oldgiova/sample-helm-chart/compare/demo-v7.1.0...demo-v8.0.0) (2024-09-13)
 
 
