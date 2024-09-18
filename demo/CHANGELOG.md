@@ -1,4 +1,16 @@
 ---
+## demo-7.6.0 - 2024-09-18
+
+
+### Features
+
+
+- Add cliff 4 feature ([6463096](https://github.com/oldgiova/sample-helm-chart/commit/64630964c20870d760636002aee6a4701d9e7fd1))  by @oldgiova
+  Feat 4 feature is a wonderful feature
+
+
+
+
 ## demo-7.5.0 - 2024-09-18
 
 
