@@ -1,4 +1,16 @@
 ---
+## demo-7.5.0 - 2024-09-18
+
+
+### Features
+
+
+- Add feature cliff 3 ([f4618cc](https://github.com/oldgiova/sample-helm-chart/commit/f4618cc5dc033586b4a362b121be7a92269ce02a))  by @oldgiova
+  Feature cliff 3 is a wow feature
+
+
+
+
 ## demo-7.4.0 - 2024-09-18
 
 
