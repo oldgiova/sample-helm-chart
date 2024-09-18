@@ -26,6 +26,7 @@ testmanuelcliff: {}
 testprepend: {}
 
 testcliff1: {}
+testcliff2: {}
 
 serviceAccount:
   # Specifies whether a service account should be created
