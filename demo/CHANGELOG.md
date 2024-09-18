@@ -1,5 +1,19 @@
 ---
-## demo-v7.3.0 - 2024-09-18
+## demo-7.4.0 - 2024-09-18
+
+
+### Features
+
+
+- Add demo feature cliff2 ([8f9aa7e](https://github.com/oldgiova/sample-helm-chart/commit/8f9aa7ecbcfc4094da997bb8497825807a9667d6))  by @oldgiova
+  Feature cliff 2 which is
+  intended for something
+  that could be useful
+
+
+
+
+## demo-7.3.0 - 2024-09-18
 
 
 ### Features
