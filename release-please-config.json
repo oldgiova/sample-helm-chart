@@ -1,32 +1,16 @@
 {
-  "bootstrap-sha": "39007b644277b8b254d0077da2e4010d9db2d97c",
   "packages": {
     "demo": {
       "changelog-path": "CHANGELOG.md",
-      "package-name": "demo",
-      "release-type": "helm",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
       "prerelease": false
     }
   },
-  "changelog-sections": [
-    { "type": "feat", "section": "Features" },
-    { "type": "feature", "section": "Features" },
-    { "type": "fix", "section": "Bug Fixes" },
-    { "type": "perf", "section": "Performance" },
-    { "type": "revert", "section": "I made a mistake" },
-    { "type": "docs", "section": "Documentation"},
-    { "type": "style", "section": "Styling", "hidden": false },
-    { "type": "chore", "section": "Miscellaneous Chores", "hidden": true },
-    { "type": "refactor", "section": "Refactor", "hidden": false },
-    { "type": "test", "section": "Testing", "hidden": false },
-    { "type": ".*Changelog: None", "section": "No changelog", "hidden": true },
-    { "type": "^chore: bump", "section": "Dependabot bumps", "hidden": false },
-    { "type": "chore", "section": "Chore", "hidden": true },
-    { "type": "build", "section": "Build System", "hidden": true },
-    { "type": "ci", "section": "Continuous Integration", "hidden": true }
-  ],
+  "release-type": "helm",
+  "include-component-in-tag": true,
+  "include-v-in-tag": false,
+  "bootstrap-sha": "39007b644277b8b254d0077da2e4010d9db2d97c",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
